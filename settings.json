@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ditlonnhaua.aternos.me",
+    "ip": "ditlonnhaua.aternos.me:50355",
     "port": 50355,
     "version": "",
     "try-creative": false
