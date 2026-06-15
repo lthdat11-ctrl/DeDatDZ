@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Lthdat11.aternos.me:30066",
+    "ip": "Lthdat11.aternos.me",
     "port": 50355,
     "version": "",
     "try-creative": false
